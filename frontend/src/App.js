@@ -1,7 +1,7 @@
-import "./homepage.styles.scss";
+import "./scss/main.scss";
 import React, { Fragment } from "react";
 
-import HomePage from "./homepage.component";
+import HomePage from "./pages/homepage/homepage.component";
 
 function App() {
   return (
